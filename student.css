@@ -1,0 +1,18 @@
+src
+ ├── main
+ │   ├── java
+ │   │   └── com
+ │   │       └── example
+ │   │           └── studentmanagement
+ │   │               ├── controller
+ │   │               │   └── StudentController.java
+ │   │               ├── service
+ │   │               │   └── StudentService.java
+ │   │               ├── repository
+ │   │               │   └── StudentRepository.java
+ │   │               ├── model
+ │   │               │   └── Student.java
+ │   │               └── StudentManagementApplication.java
+ │   └── resources
+ │       └── application.properties
+ └── test
